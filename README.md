@@ -46,7 +46,7 @@ In this project, Haar cascades were used in conjunction with OpenCV to detect hu
    - Rectangles are drawn around detected faces, and text indicating the predicted emotion is overlaid on each face. This visual feedback provides real-time information about the emotion recognition process.
    - The processed video feed with emotion annotations is displayed in a window, allowing users to see the system's response to their facial expressions.
 
-![Output Window](assets\happy.jpg)
+![Output Window](assets/happy.jpg)
 
 ## Model used
 
